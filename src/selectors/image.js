@@ -1,0 +1,1 @@
+export const itemsSelector = state => state.image.items
